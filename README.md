@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvrajmunjal9
-- 👀 I’m interested in web-development
+- 👀 I’m working on web-development projects.
 - 🌱 I’m currently pursuing BCA.
 - 💞️ I’m looking to collaborate on remote work.
 - 😄 Pronouns: ...
