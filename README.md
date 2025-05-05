@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=yuvrajmunjal9&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajmunjal9" />
 </p>
 
-- 🎓 I’m a final-year BCA student at Chandigarh University
-- 🌱 I’m currently learning **React.js** and **Tailwind CSS**
+- 🎓 Completed BCA From Chandigarh University
+- 🌱 I’m currently learning **React.js** and **Typescript **
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuvrajmunjal9) | [Instagram](https://www.instagram.com/__uvraj_62_/)
 - ⚡ Fun fact: I love building responsive and user-friendly web interfaces
