@@ -6,7 +6,7 @@
 </p>
 
 - 🎓 Completed BCA From Chandigarh University
-- 🌱 I’m currently learning **React.js** and **Typescript **
+- 🌱 I’m currently learning **JAVA** and **Typescript **
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuvrajmunjal9) | [Instagram](https://www.instagram.com/__uvraj_62_/)
 - ⚡ Fun fact: I love building responsive and user-friendly web interfaces
